@@ -23,3 +23,6 @@
   path = fuel/vendor/monolog/monolog
   url = git://github.com/Seldaek/monolog.git
 
+[submodule "fuel/vendor/monolog/monolog"]
+	path = fuel/vendor/monolog/monolog
+	url = git://github.com/Seldaek/monolog.git

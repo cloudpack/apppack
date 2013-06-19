@@ -10,7 +10,7 @@ desktop.ini
 *.tmproj
 build
 .idea
-/fuel/vendor
+/fuel/vendors
 /fuel/app/phpunit.xml
 /fuel/app/logs/*/*/*
 /fuel/app/cache/*/*
